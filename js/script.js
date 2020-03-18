@@ -73,13 +73,8 @@ function generateTitleLinks(){
   for(let link of links){
     link.addEventListener('click', titleClickHandler);
   }
-
 }
 
 generateTitleLinks();
-
-
-
-
 
 }
